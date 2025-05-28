@@ -45,7 +45,7 @@
 		<ikube.war>site.war</ikube.war>
 		<final.name>${project.build.finalName}.${project.packaging}</final.name>
 		<maven.build.timestamp.format>dd-MM-yyyy HH:mm:ss</maven.build.timestamp.format>
-		<spring.version>3.2.4.RELEASE</spring.version>
+		<spring.version>6.1.14</spring.version>
 		<spring.security.oauth.version>3.19</spring.security.oauth.version>
 	</properties>
 
